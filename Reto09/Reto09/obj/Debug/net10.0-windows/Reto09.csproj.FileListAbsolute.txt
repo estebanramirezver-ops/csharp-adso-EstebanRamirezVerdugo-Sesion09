@@ -1,0 +1,17 @@
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion09\Reto09\Reto09\obj\Debug\net10.0-windows\Reto09.Form1.resources
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion09\Reto09\Reto09\obj\Debug\net10.0-windows\Reto09.csproj.GenerateResource.cache
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion09\Reto09\Reto09\obj\Debug\net10.0-windows\Reto09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion09\Reto09\Reto09\obj\Debug\net10.0-windows\Reto09.AssemblyInfoInputs.cache
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion09\Reto09\Reto09\obj\Debug\net10.0-windows\Reto09.AssemblyInfo.cs
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion09\Reto09\Reto09\obj\Debug\net10.0-windows\Reto09.csproj.CoreCompileInputs.cache
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion09\Reto09\Reto09\bin\Debug\net10.0-windows\Reto09.exe
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion09\Reto09\Reto09\bin\Debug\net10.0-windows\Reto09.deps.json
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion09\Reto09\Reto09\bin\Debug\net10.0-windows\Reto09.runtimeconfig.json
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion09\Reto09\Reto09\bin\Debug\net10.0-windows\Reto09.dll
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion09\Reto09\Reto09\bin\Debug\net10.0-windows\Reto09.pdb
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion09\Reto09\Reto09\obj\Debug\net10.0-windows\Reto09.dll
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion09\Reto09\Reto09\obj\Debug\net10.0-windows\refint\Reto09.dll
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion09\Reto09\Reto09\obj\Debug\net10.0-windows\Reto09.pdb
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion09\Reto09\Reto09\obj\Debug\net10.0-windows\Reto09.genruntimeconfig.cache
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion09\Reto09\Reto09\obj\Debug\net10.0-windows\ref\Reto09.dll
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion09\Reto09\Reto09\obj\Debug\net10.0-windows\Reto09.csproj.Up2Date

@@ -1,0 +1,17 @@
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion09\Tarea09\Tarea09\bin\Debug\net10.0-windows\Tarea09.exe
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion09\Tarea09\Tarea09\bin\Debug\net10.0-windows\Tarea09.deps.json
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion09\Tarea09\Tarea09\bin\Debug\net10.0-windows\Tarea09.runtimeconfig.json
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion09\Tarea09\Tarea09\bin\Debug\net10.0-windows\Tarea09.dll
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion09\Tarea09\Tarea09\bin\Debug\net10.0-windows\Tarea09.pdb
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion09\Tarea09\Tarea09\obj\Debug\net10.0-windows\Tarea09.Form1.resources
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion09\Tarea09\Tarea09\obj\Debug\net10.0-windows\Tarea09.csproj.GenerateResource.cache
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion09\Tarea09\Tarea09\obj\Debug\net10.0-windows\Tarea09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion09\Tarea09\Tarea09\obj\Debug\net10.0-windows\Tarea09.AssemblyInfoInputs.cache
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion09\Tarea09\Tarea09\obj\Debug\net10.0-windows\Tarea09.AssemblyInfo.cs
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion09\Tarea09\Tarea09\obj\Debug\net10.0-windows\Tarea09.csproj.CoreCompileInputs.cache
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion09\Tarea09\Tarea09\obj\Debug\net10.0-windows\Tarea09.dll
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion09\Tarea09\Tarea09\obj\Debug\net10.0-windows\refint\Tarea09.dll
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion09\Tarea09\Tarea09\obj\Debug\net10.0-windows\Tarea09.pdb
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion09\Tarea09\Tarea09\obj\Debug\net10.0-windows\Tarea09.genruntimeconfig.cache
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion09\Tarea09\Tarea09\obj\Debug\net10.0-windows\ref\Tarea09.dll
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion09\Tarea09\Tarea09\obj\Debug\net10.0-windows\Tarea09.csproj.Up2Date
